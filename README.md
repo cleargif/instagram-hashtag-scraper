@@ -1,4 +1,4 @@
-## APP [https://thawing-bayou-32780.herokuapp.com/love](https://thawing-bayou-32780.herokuapp.com/love)
+## APP [https://instagram-hashtag-scraper.herokuapp.com](https://instagram-hashtag-scraper.herokuapp.com)
 
 ________________________
 
